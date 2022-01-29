@@ -1,7 +1,8 @@
 give_me_info_lim.pro
 ;    -Convert UTC to JULIAN to MY
+;    -Get attributes from respective shapefiles
 ;    -Comments in all caps describe actions
-;-
+;
 
 
 PRO give_me_info
